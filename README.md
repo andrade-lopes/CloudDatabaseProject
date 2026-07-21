@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I am expanding my understanding of cloud technologies and modern web development practices. This project was created to demonstrate how a web application can connect to a cloud database and perform real-time data management operations.
+As a software engineer, I am continuously expanding my knowledge of cloud technologies and modern web development practices. This project helped me understand how cloud databases enable real-time data storage and synchronization in modern web applications.
 
 The software is a web application called CloudDatabaseProject that integrates with Google Firebase Firestore. Users can create, view, update, and delete volunteer projects that are stored in the cloud. The application demonstrates full CRUD functionality and real-time synchronization between the web interface and the Firestore database.
 
