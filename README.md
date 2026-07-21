@@ -19,7 +19,7 @@ The following tools and technologies were used to develop this software:
 - Visual Studio Code
 - Google Firebase Console
 - Google Firebase Firestore
-- HTML5
+- HTML5 
 - JavaScript (ES6 Modules)
 - Firebase Web SDK
 - Git
